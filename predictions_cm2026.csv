@@ -1,0 +1,73 @@
+date,home_team,away_team,proba_home,proba_draw,proba_away,prediction
+2026-06-11,Mexico,South Africa,20.6%,37.3%,42.1%,South Africa
+2026-06-11,South Korea,Czech Republic,25.7%,32.3%,42.0%,Czech Republic
+2026-06-12,United States,Paraguay,30.9%,32.8%,36.3%,Paraguay
+2026-06-12,Canada,Bosnia and Herzegovina,28.0%,41.2%,30.7%,Draw
+2026-06-13,Qatar,Switzerland,21.3%,27.0%,51.7%,Switzerland
+2026-06-13,Haiti,Scotland,22.4%,32.3%,45.3%,Scotland
+2026-06-13,Australia,Turkey,15.8%,36.9%,47.3%,Turkey
+2026-06-13,Brazil,Morocco,16.3%,33.2%,50.5%,Morocco
+2026-06-14,Germany,Curaçao,45.1%,31.1%,23.8%,Germany
+2026-06-14,Ivory Coast,Ecuador,31.3%,44.0%,24.7%,Draw
+2026-06-14,Netherlands,Japan,53.0%,26.3%,20.7%,Netherlands
+2026-06-14,Sweden,Tunisia,13.0%,30.4%,56.5%,Tunisia
+2026-06-15,Spain,Cape Verde,49.5%,26.5%,23.9%,Spain
+2026-06-15,Belgium,Egypt,37.3%,36.0%,26.7%,Belgium
+2026-06-15,Iran,New Zealand,53.0%,30.9%,16.1%,Iran
+2026-06-15,Saudi Arabia,Uruguay,21.4%,36.2%,42.3%,Uruguay
+2026-06-16,Austria,Jordan,53.3%,28.3%,18.4%,Austria
+2026-06-16,Argentina,Algeria,47.5%,28.5%,24.0%,Argentina
+2026-06-16,France,Senegal,19.5%,25.3%,55.2%,Senegal
+2026-06-16,Iraq,Norway,19.2%,23.6%,57.2%,Norway
+2026-06-17,Portugal,DR Congo,37.3%,32.5%,30.2%,Portugal
+2026-06-17,Uzbekistan,Colombia,23.3%,37.9%,38.8%,Colombia
+2026-06-17,England,Croatia,27.2%,37.8%,35.0%,Draw
+2026-06-17,Ghana,Panama,21.2%,32.0%,46.8%,Panama
+2026-06-18,Switzerland,Bosnia and Herzegovina,24.3%,29.9%,45.7%,Bosnia and Herzegovina
+2026-06-18,Canada,Qatar,60.5%,29.0%,10.5%,Canada
+2026-06-18,Mexico,South Korea,22.3%,37.8%,40.0%,South Korea
+2026-06-18,Czech Republic,South Africa,29.6%,35.6%,34.8%,Draw
+2026-06-19,Scotland,Morocco,17.5%,25.4%,57.1%,Morocco
+2026-06-19,Brazil,Haiti,43.9%,35.2%,20.8%,Brazil
+2026-06-19,United States,Australia,30.8%,34.5%,34.7%,Australia
+2026-06-19,Turkey,Paraguay,28.3%,36.5%,35.2%,Draw
+2026-06-20,Tunisia,Japan,16.5%,34.6%,48.9%,Japan
+2026-06-20,Germany,Ivory Coast,19.2%,31.7%,49.1%,Ivory Coast
+2026-06-20,Ecuador,Curaçao,28.8%,36.9%,34.4%,Draw
+2026-06-20,Netherlands,Sweden,52.0%,27.5%,20.5%,Netherlands
+2026-06-21,Uruguay,Cape Verde,22.8%,35.7%,41.5%,Cape Verde
+2026-06-21,Spain,Saudi Arabia,65.0%,19.7%,15.3%,Spain
+2026-06-21,Belgium,Iran,39.9%,30.9%,29.2%,Belgium
+2026-06-21,New Zealand,Egypt,11.0%,22.1%,67.0%,Egypt
+2026-06-22,Jordan,Algeria,12.3%,30.3%,57.4%,Algeria
+2026-06-22,France,Iraq,43.4%,26.1%,30.5%,France
+2026-06-22,Norway,Senegal,26.6%,36.1%,37.3%,Senegal
+2026-06-22,Argentina,Austria,24.4%,44.4%,31.3%,Draw
+2026-06-23,England,Ghana,34.3%,38.6%,27.1%,Draw
+2026-06-23,Panama,Croatia,16.2%,23.0%,60.7%,Croatia
+2026-06-23,Portugal,Uzbekistan,32.0%,35.9%,32.1%,Draw
+2026-06-23,Colombia,DR Congo,25.4%,37.7%,36.9%,Draw
+2026-06-24,Morocco,Haiti,41.4%,39.9%,18.8%,Morocco
+2026-06-24,Scotland,Brazil,15.2%,31.4%,53.4%,Brazil
+2026-06-24,Bosnia and Herzegovina,Qatar,22.2%,39.8%,38.0%,Draw
+2026-06-24,South Africa,South Korea,25.9%,35.7%,38.4%,South Korea
+2026-06-24,Mexico,Czech Republic,15.2%,29.7%,55.2%,Czech Republic
+2026-06-24,Canada,Switzerland,27.1%,40.2%,32.7%,Draw
+2026-06-25,United States,Turkey,21.3%,27.8%,50.9%,Turkey
+2026-06-25,Paraguay,Australia,14.6%,34.1%,51.4%,Australia
+2026-06-25,Curaçao,Ivory Coast,14.0%,27.8%,58.2%,Ivory Coast
+2026-06-25,Ecuador,Germany,19.2%,32.6%,48.2%,Germany
+2026-06-25,Japan,Sweden,25.0%,38.6%,36.4%,Draw
+2026-06-25,Tunisia,Netherlands,8.7%,24.0%,67.3%,Netherlands
+2026-06-26,Egypt,Iran,16.5%,35.0%,48.5%,Iran
+2026-06-26,New Zealand,Belgium,16.4%,28.1%,55.5%,Belgium
+2026-06-26,Cape Verde,Saudi Arabia,46.4%,30.2%,23.4%,Cape Verde
+2026-06-26,Uruguay,Spain,10.8%,28.3%,60.9%,Spain
+2026-06-26,Norway,France,34.0%,30.4%,35.6%,France
+2026-06-26,Senegal,Iraq,46.0%,33.0%,21.0%,Senegal
+2026-06-27,DR Congo,Uzbekistan,24.5%,42.0%,33.6%,Draw
+2026-06-27,Colombia,Portugal,21.1%,33.4%,45.5%,Portugal
+2026-06-27,Panama,England,13.2%,35.2%,51.6%,England
+2026-06-27,Algeria,Austria,23.2%,41.8%,35.0%,Draw
+2026-06-27,Jordan,Argentina,11.3%,29.9%,58.8%,Argentina
+2026-06-27,Croatia,Ghana,54.7%,29.2%,16.1%,Croatia
